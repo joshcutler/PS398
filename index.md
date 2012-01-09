@@ -15,9 +15,9 @@ Office Hours: By Appointment
 
 This course will introduce students to concepts from Computer Science and Software Engineering using the Python programming language. The goal will be to give students a strong working knowledge of the skills necessary to use programming in their social science research. We will survey more advanced topics to give students familiarity with the concepts and serve as a starting point for further courses/self teaching.
 
-The first two thirds of the course will be devoted to making sure that everyone is comfortable with building simple, object oriented programs. We will cover best practices in software engineering as well as basic computer science concepts, data structures, algorithm design and computational complexity. Homeworks will include simple programming assignments that we will code review as a group to talk about implementation decisions.
+The first half of the course will be devoted to making sure that everyone is comfortable with building simple, object oriented programs. We will cover best practices in software engineering as well as basic computer science concepts, data structures, algorithm design and computational complexity. Homeworks will include simple programming assignments that we will code review as a group to talk about implementation decisions.
 
-The final third (roughly) of the course will be devoted to applying some of what we have covered to the field of social science. We will cover some specific programming techniques that are of use to social scientists (e.g. classification, linear programming) and implement some simple examples of these.  During this time students will be working on their final project.
+The final half (roughly) of the course will be devoted to applying some of what we have covered to the field of social science. We will cover some specific programming techniques that are of use to social scientists (e.g. classification, linear programming) and implement some simple examples of these.  During this time students will be working on their final project.
     
 ## Recommended for
 

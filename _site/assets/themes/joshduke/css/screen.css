@@ -213,3 +213,25 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+  
+#schedule {
+  border-collapse: collapse;
+  font-size: 11px;
+}
+  #schedule td, #schedule th {
+    vertical-align: top;
+  }
+
+  #schedule th.col1 {
+    width: 250px;
+  }
+  
+  #schedule th {
+    border-bottom: solid 1px #333;
+  }
+  
+  #schedule td {
+    padding: 5px;
+    border-bottom: solid 1px #DDD;
+  }
+}
