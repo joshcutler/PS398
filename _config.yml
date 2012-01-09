@@ -8,11 +8,11 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
-title : My Blog =)
+production_url : http://joshcutler.github.com/PS398 # or your custom domain name
+title : PS398 - Spring 2012
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Josh Cutler
+  email : josh.cutler@duke.edu
+  github : joshcutler
+  twitter : josh_cutler
