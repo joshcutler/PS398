@@ -5,10 +5,8 @@ auto: true
 pygments: true
 var:
   archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
 
-production_url : http://joshcutler.github.com/PS398 # or your custom domain name
+production_url : http://joshcutler.github.com/PS398/ # or your custom domain name
 title : PS398 - Spring 2012
 
 author :
