@@ -14,7 +14,7 @@ header: PS398
 
 [Homework 4](./assets/HW4.pdf)
 
-Homework 5
+[Homework 5](./assets/HW5.pdf)
 
 Homework 6
 
